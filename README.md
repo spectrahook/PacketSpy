@@ -27,7 +27,7 @@ This script is under a custom license:
 
 ❌ Do not sell or redistribute it for profit
 
-✅ For personal use only
+✅ You can use this script!
 
 ❗ Attribution required (@liebertsx)
 
