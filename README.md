@@ -6,7 +6,7 @@ Captured packets are written to `Packet.lua` as clean, executable commands.
 
 ## 🦴 Script
 ```lua
-
+https://raw.githubusercontent.com/spectrahook/PacketSpy/refs/heads/main/PacketSpy.lua
 ```
 
 ## ✨ Features
