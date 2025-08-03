@@ -42,5 +42,4 @@ SendPacket(3, "action|join_request|name|WorldName")
 ## 📩 Contact
 - Discord: @liebertsx
 
-Langsung bisa kamu pakai buat `README.md`. Let me know kalau mau versi Indo juga.
 
