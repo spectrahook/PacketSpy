@@ -19,7 +19,7 @@ end
 
 addHook(function(...)
     local Arguments = {...}
-    log('`9[TYPE] : `w'..Arguments[1])
-    log('`9[SEND] : `w'..Arguments[2])
+    log('`8[TYPE] : `w'..Arguments[1])
+    log('`8[SEND] : `w'..Arguments[2])
     makefile('Packet.lua', Arguments[1]..',[['..Arguments[2]..']]')
 end, 'OnSendPacket')
