@@ -31,24 +31,16 @@ SendPacket(3, "action|join_request|name|WorldName")
 - Press Fecth From Github
 - Paste the raw link 
 
-🚫 License
+## 🚫 License
 
-This script is under a custom license:
+- This script is under a custom license:
+- ❌ Do not rename or rebrand this file
+- ❌ Do not sell or redistribute it for profit
+- ❗ Attribution required (@liebertsx)
+- Violation may result in revoked permission to use this tool.
 
-❌ Do not rename or rebrand this file
-
-❌ Do not sell or redistribute it for profit
-
-✅ You can use this script!
-
-❗ Attribution required (@liebertsx)
-
-
-Violation may result in revoked permission to use this tool.
-
-📩 Contact
-
-Discord: @liebertsx
+## 📩 Contact
+- Discord: @liebertsx
 
 Langsung bisa kamu pakai buat `README.md`. Let me know kalau mau versi Indo juga.
 
