@@ -4,6 +4,11 @@
 Logs all sent packets in Growtopia using GrowLauncher.  
 Captured packets are written to `Packet.lua` as clean, executable commands.
 
+## 🦴 Script
+```lua
+
+```
+
 ## ✨ Features
 - Logs `SendPacket` type and content via `OnSendPacket` hook
 - Saves to `Packet.lua` as:
@@ -18,6 +23,13 @@ local SendPacket = SendPacket or sendPacket
 SendPacket(2, "action|dialog_return|dialog_name|mines_game|buttonClicked|mine_7_8")
 SendPacket(3, "action|join_request|name|WorldName")
 ```
+
+## 🤔 How to use
+- Go to Growlauncher
+- Then click Lua Manager
+- Press + button at the right bottom
+- Press Fecth From Github
+- Paste the raw link 
 
 🚫 License
 
