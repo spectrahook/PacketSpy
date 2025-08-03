@@ -1,4 +1,4 @@
-makefile = function(Name, Content)
+makefile = function(Name, Content) -- synapse reference lol
     local Path = '/storage/emulated/0/Android/data/launcher.powerkuy.growlauncher/files/ScriptLua/'..Name
     local File = io.open(Path, 'r')
     local IsDeclared = false
