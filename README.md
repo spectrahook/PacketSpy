@@ -2,7 +2,7 @@
 # 📦 Growtopia Packet Logger (GrowLauncher)
 
 Logs all sent packets in Growtopia using GrowLauncher.  
-Captured packets are written to `Packet.lua` as clean, executable commands.
+Captured packets are written to `Packet.lua` as clean, executable commands. AND READ THE LICENSE TOO
 
 ## 🦴 Script
 ```lua
