@@ -33,14 +33,6 @@ SendPacket(2,[[action|input
 - Press Fecth From Github
 - Paste the raw link 
 
-## 🚫 License
-
-- This script is under a custom license:
-- ❌ Do not rename or rebrand this file
-- ❌ Do not sell or redistribute it for profit
-- ❗ Attribution required (@liebertsx)
-- Violation may result in revoked permission to use this tool.
-
 ## 📩 Contact
 - Discord: @liebertsx
 
